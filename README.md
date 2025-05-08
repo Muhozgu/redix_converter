@@ -1,2 +1,2 @@
 # redix_converter
-Base 2, Base 6, Base 8
+Base 2, Base 6 and Base 8
